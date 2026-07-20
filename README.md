@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/HariK0/Leeting/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/HariK0/Leeting/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/HariK0/Leeting/tree/master/0463-island-perimeter) |
+| [1260-shift-2d-grid](https://github.com/HariK0/Leeting/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HariK0/Leeting/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/HariK0/Leeting/tree/master/0463-island-perimeter) |
+| [1260-shift-2d-grid](https://github.com/HariK0/Leeting/tree/master/1260-shift-2d-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/HariK0/Leeting/tree/master/0198-house-robber) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/HariK0/Leeting/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
