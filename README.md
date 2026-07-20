@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HariK0/Leeting/tree/master/0001-two-sum) |
+| [0463-island-perimeter](https://github.com/HariK0/Leeting/tree/master/0463-island-perimeter) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HariK0/Leeting/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -29,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HariK0/Leeting/tree/master/0003-longest-substring-without-repeating-characters) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/HariK0/Leeting/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/HariK0/Leeting/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/HariK0/Leeting/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
