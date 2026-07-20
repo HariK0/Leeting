@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HariK0/Leeting/tree/master/0001-two-sum) |
+| [0198-house-robber](https://github.com/HariK0/Leeting/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/HariK0/Leeting/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/HariK0/Leeting/tree/master/0463-island-perimeter) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HariK0/Leeting/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/HariK0/Leeting/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/HariK0/Leeting/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
