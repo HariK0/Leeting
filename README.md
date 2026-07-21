@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HariK0/Leeting/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/HariK0/Leeting/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HariK0/Leeting/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/HariK0/Leeting/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
