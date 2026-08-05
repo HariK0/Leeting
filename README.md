@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/HariK0/Leeting/tree/master/0463-island-perimeter) |
+| [3310-remove-methods-from-project](https://github.com/HariK0/Leeting/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/HariK0/Leeting/tree/master/0463-island-perimeter) |
+| [3310-remove-methods-from-project](https://github.com/HariK0/Leeting/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/HariK0/Leeting/tree/master/0877-stone-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/HariK0/Leeting/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
