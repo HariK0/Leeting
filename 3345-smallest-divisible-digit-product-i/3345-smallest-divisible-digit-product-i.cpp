@@ -1,12 +1,23 @@
 class Solution {
 public:
-    int smallestNumber(int n, int t) {
-        auto [q, r] = div(n, 10);
+    int smallestNumber(int n, int t) 
+    {
+        while(true)
+        {
+            int temp=n;
+            int prod=1;
 
-        int req = t / gcd(q + (10 - q) / 10, t);
-        int nxt = ((r + req - 1) / req) * req;
-        int x = nxt - (nxt - 10) * (nxt / 10);
-
-        return q * 10 + x;
+            while(temp>0)
+            {
+                prod*=(temp%10);
+                temp/=10;
+            }
+            if(prod%t==0)
+            {
+                return n;
+            }
+            n++;
+        }
+        
     }
 };
