@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/HariK0/Leeting/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/HariK0/Leeting/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/HariK0/Leeting/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/HariK0/Leeting/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HariK0/Leeting/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HariK0/Leeting/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HariK0/Leeting/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/HariK0/Leeting/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HariK0/Leeting/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/HariK0/Leeting/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/HariK0/Leeting/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HariK0/Leeting/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HariK0/Leeting/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HariK0/Leeting/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/HariK0/Leeting/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HariK0/Leeting/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/HariK0/Leeting/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/HariK0/Leeting/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/HariK0/Leeting/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/HariK0/Leeting/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/HariK0/Leeting/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/HariK0/Leeting/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HariK0/Leeting/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/HariK0/Leeting/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/HariK0/Leeting/tree/master/1872-stone-game-viii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -158,11 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/HariK0/Leeting/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/HariK0/Leeting/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/HariK0/Leeting/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/HariK0/Leeting/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/HariK0/Leeting/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/HariK0/Leeting/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
