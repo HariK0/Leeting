@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/HariK0/Leeting/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HariK0/Leeting/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/HariK0/Leeting/tree/master/1260-shift-2d-grid) |
+| [1331-rank-transform-of-an-array](https://github.com/HariK0/Leeting/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/HariK0/Leeting/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/HariK0/Leeting/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/HariK0/Leeting/tree/master/1872-stone-game-viii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HariK0/Leeting/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HariK0/Leeting/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/HariK0/Leeting/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/HariK0/Leeting/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HariK0/Leeting/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HariK0/Leeting/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/HariK0/Leeting/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/HariK0/Leeting/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HariK0/Leeting/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HariK0/Leeting/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/HariK0/Leeting/tree/master/3536-maximum-product-of-two-digits) |
