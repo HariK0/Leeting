@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/HariK0/Leeting/tree/master/0463-island-perimeter) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HariK0/Leeting/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/HariK0/Leeting/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -204,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HariK0/Leeting/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HariK0/Leeting/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HariK0/Leeting/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
