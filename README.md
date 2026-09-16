@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/HariK0/Leeting/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HariK0/Leeting/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/HariK0/Leeting/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HariK0/Leeting/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/HariK0/Leeting/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HariK0/Leeting/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HariK0/Leeting/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/HariK0/Leeting/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HariK0/Leeting/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/HariK0/Leeting/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HariK0/Leeting/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/HariK0/Leeting/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/HariK0/Leeting/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/HariK0/Leeting/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HariK0/Leeting/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/HariK0/Leeting/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HariK0/Leeting/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HariK0/Leeting/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HariK0/Leeting/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
